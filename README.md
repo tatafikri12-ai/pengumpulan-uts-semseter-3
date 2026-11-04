@@ -1,3 +1,5 @@
+Nama : Tata Fikri Prayoga
+Nim :TI22250042
 A.	Tujuan Pengolahan Kode
 Secara keseluruhan, kode di atas bertujuan untuk melakukan Eksploratory Data Analysis (EDA) dan persiapan data awal (data preprocessing) pada sebuah dataset mahasiswa (original.csv). Tujuannya adalah untuk memahami karakteristik data, mendeteksi nilai yang hilang (missing values), memeriksa duplikasi data, serta menganalisis distribusi variabel target (status kelulusan mahasiswa: lulus/0 atau gagal/1) sebelum nantinya digunakan untuk membangun model machine learning (seperti Logistic Regression, Decision Tree, atau Random Forest). 
 B.	Penjelasan Kode Untuk Setiap Sel
